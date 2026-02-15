@@ -1,4 +1,4 @@
-# IA-SWE-Saftey-Lab
+# AI-SWE-Saftey-Lab
 
 Research sandbox for **activation-based safety steering** in open-weight chat models.
 
